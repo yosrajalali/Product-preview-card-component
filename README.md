@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-1DIQKcsmAP](https://www.frontendmentor.io/solutions/product-preview-card-component-1DIQKcsmAP)
 - Live Site URL: [https://yosrajalali.github.io/Product-preview-card-component/](https://yosrajalali.github.io/Product-preview-card-component/)
 - 
 ## Table of contents
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yosrajalali](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yosrajalali](https://www.frontendmentor.io/profile/yosrajalali)
